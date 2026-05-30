@@ -226,10 +226,11 @@ function Index() {
           <dl className="mt-10 grid gap-x-12 gap-y-6 text-sm md:grid-cols-2">
             {[
               ["Юридический адрес", "614022, Пермский край, г. Пермь, ул. Карпинского, д. 77, кв. 97"],
-              ["ИНН", "—"],
-              ["КПП", "—"],
-              ["Расчётный счёт", "—"],
-              ["БИК", "—"],
+              ["ИНН", "5905040023"],
+              ["КПП", "590501001"],
+              ["Расчётный счёт", "40702810729200000545"],
+              ["Банк", 'ФИЛИАЛ "НИЖЕГОРОДСКИЙ" АО "АЛЬФА-БАНК", г. Нижний Новгород'],
+              ["БИК", "042202824"],
               ["E-mail", "rice@beeff.ru"],
               ["Телефон", "+7 (342) 271-96-55"],
             ].map(([label, value]) => (
@@ -239,10 +240,6 @@ function Index() {
               </div>
             ))}
           </dl>
-
-          <p className="mt-6 text-xs text-muted-foreground">
-            * Поля ИНН, КПП, расчётный счёт и БИК будут заполнены после уточнения данных.
-          </p>
 
           <div className="mt-16 flex flex-col justify-between gap-4 border-t border-border/60 pt-8 text-xs text-muted-foreground md:flex-row">
             <span>© {new Date().getFullYear()} ООО «БИФ» (BEEF). Все права защищены.</span>
