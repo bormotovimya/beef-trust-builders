@@ -10,7 +10,7 @@ export const Route = createFileRoute("/")({
         content:
           "ООО «БИФ» — 15 лет внедрения информационных систем 1С в Перми и Пермском крае. Команда из 10 специалистов. Решаем задачи любой сложности.",
       },
-      { property: "og:title", content: "BEEF — Внедрение 1С в Перми" },
+      { property: "og:title", content: "Beeff — Внедрение 1С в Перми" },
       {
         property: "og:description",
         content: "15 лет опыта внедрения 1С. Команда экспертов в Перми и Пермском крае.",
