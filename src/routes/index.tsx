@@ -27,7 +27,7 @@ function Index() {
       <header className="sticky top-0 z-50 border-b border-border/60 bg-background/80 backdrop-blur-md">
         <div className="mx-auto flex max-w-6xl items-center justify-between px-6 py-5">
           <a href="#top" className="flex items-baseline gap-2">
-            <span className="text-2xl font-bold tracking-tight">BEEF</span>
+            <span className="text-2xl font-bold tracking-tight">Beeff</span>
             <span className="hidden text-xs uppercase tracking-[0.2em] text-muted-foreground sm:inline">
               1С · Пермь
             </span>
