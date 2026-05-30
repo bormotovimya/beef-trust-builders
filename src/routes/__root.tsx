@@ -81,7 +81,7 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
       { name: "description", content: "Beeff: Your 1C Solutions Partner is a single-page website showcasing expertise in 1C system implementation." },
       { name: "author", content: "Lovable" },
       { property: "og:title", content: "Lovable App" },
-      { property: "og:description", content: "BEEF: Your 1C Solutions Partner is a single-page website showcasing expertise in 1C system implementation." },
+      { property: "og:description", content: "Beeff: Your 1C Solutions Partner is a single-page website showcasing expertise in 1C system implementation." },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary" },
       { name: "twitter:site", content: "@Lovable" },
