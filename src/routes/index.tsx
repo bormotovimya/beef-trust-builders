@@ -199,11 +199,11 @@ function Index() {
               <span>rice@beeff.ru</span>
             </a>
             <a
-              href="tel:+73422719655"
+              href="tel:83422719655"
               className="flex items-center gap-4 border-b border-primary-foreground/20 pb-6 transition-opacity hover:opacity-80"
             >
               <Phone className="h-5 w-5 shrink-0 opacity-70" strokeWidth={1.5} />
-              <span>+7 (342) 271-96-55</span>
+              <span>8 (342) 2719655</span>
             </a>
             <div className="flex items-start gap-4">
               <MapPin className="mt-1 h-5 w-5 shrink-0 opacity-70" strokeWidth={1.5} />
