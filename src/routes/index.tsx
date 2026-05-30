@@ -232,7 +232,7 @@ function Index() {
               ["Банк", 'ФИЛИАЛ "НИЖЕГОРОДСКИЙ" АО "АЛЬФА-БАНК", г. Нижний Новгород'],
               ["БИК", "042202824"],
               ["E-mail", "rice@beeff.ru"],
-              ["Телефон", "+7 (342) 271-96-55"],
+              ["Телефон", "8 (342) 2719655"],
             ].map(([label, value]) => (
               <div key={label} className="flex flex-col gap-1 border-b border-border/60 pb-4">
                 <dt className="text-xs uppercase tracking-wider text-muted-foreground">{label}</dt>
