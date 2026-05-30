@@ -86,7 +86,7 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
       { name: "twitter:card", content: "summary" },
       { name: "twitter:site", content: "@Lovable" },
       { name: "twitter:title", content: "Lovable App" },
-      { name: "twitter:description", content: "BEEF: Your 1C Solutions Partner is a single-page website showcasing expertise in 1C system implementation." },
+      { name: "twitter:description", content: "Beeff: Your 1C Solutions Partner is a single-page website showcasing expertise in 1C system implementation." },
       { property: "og:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/e687b7b8-5a0b-44ae-9f70-e6ff237a7e0c/id-preview-62a943fe--c0af5115-6718-483e-a371-8a024c5c789c.lovable.app-1780128162607.png" },
       { name: "twitter:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/e687b7b8-5a0b-44ae-9f70-e6ff237a7e0c/id-preview-62a943fe--c0af5115-6718-483e-a371-8a024c5c789c.lovable.app-1780128162607.png" },
     ],
