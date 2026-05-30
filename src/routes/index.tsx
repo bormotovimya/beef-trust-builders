@@ -242,7 +242,7 @@ function Index() {
           </dl>
 
           <div className="mt-16 flex flex-col justify-between gap-4 border-t border-border/60 pt-8 text-xs text-muted-foreground md:flex-row">
-            <span>© {new Date().getFullYear()} ООО «БИФ» (BEEF). Все права защищены.</span>
+            <span>© {new Date().getFullYear()} ООО «БИФ» (Beeff). Все права защищены.</span>
             <span>Пермь · 1С с 2010 года</span>
           </div>
         </div>
