@@ -4,13 +4,13 @@ import { Mail, Phone, MapPin, Users, Award, Code2, ArrowRight } from "lucide-rea
 export const Route = createFileRoute("/")({
   head: () => ({
     meta: [
-      { title: "BEEF — Внедрение 1С в Перми | 15 лет опыта" },
+      { title: "Beeff — Внедрение 1С в Перми | 15 лет опыта" },
       {
         name: "description",
         content:
           "ООО «БИФ» — 15 лет внедрения информационных систем 1С в Перми и Пермском крае. Команда из 10 специалистов. Решаем задачи любой сложности.",
       },
-      { property: "og:title", content: "BEEF — Внедрение 1С в Перми" },
+      { property: "og:title", content: "Beeff — Внедрение 1С в Перми" },
       {
         property: "og:description",
         content: "15 лет опыта внедрения 1С. Команда экспертов в Перми и Пермском крае.",
@@ -27,7 +27,7 @@ function Index() {
       <header className="sticky top-0 z-50 border-b border-border/60 bg-background/80 backdrop-blur-md">
         <div className="mx-auto flex max-w-6xl items-center justify-between px-6 py-5">
           <a href="#top" className="flex items-baseline gap-2">
-            <span className="text-2xl font-bold tracking-tight">BEEF</span>
+            <span className="text-2xl font-bold tracking-tight">Beeff</span>
             <span className="hidden text-xs uppercase tracking-[0.2em] text-muted-foreground sm:inline">
               1С · Пермь
             </span>
@@ -106,7 +106,7 @@ function Index() {
           </div>
           <div className="space-y-6 text-lg leading-relaxed text-muted-foreground">
             <p>
-              BEEF — компания с пятнадцатилетним опытом внедрения информационных систем 1С
+              Beeff — компания с пятнадцатилетним опытом внедрения информационных систем 1С
               различного масштаба и сложности. Мы работаем под конкретные требования клиента, а не
               продаём типовые решения.
             </p>
@@ -242,7 +242,7 @@ function Index() {
           </dl>
 
           <div className="mt-16 flex flex-col justify-between gap-4 border-t border-border/60 pt-8 text-xs text-muted-foreground md:flex-row">
-            <span>© {new Date().getFullYear()} ООО «БИФ» (BEEF). Все права защищены.</span>
+            <span>© {new Date().getFullYear()} ООО «БИФ» (Beeff). Все права защищены.</span>
             <span>Пермь · 1С с 2010 года</span>
           </div>
         </div>
