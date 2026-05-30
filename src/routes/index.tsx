@@ -4,7 +4,7 @@ import { Mail, Phone, MapPin, Users, Award, Code2, ArrowRight } from "lucide-rea
 export const Route = createFileRoute("/")({
   head: () => ({
     meta: [
-      { title: "BEEF — Внедрение 1С в Перми | 15 лет опыта" },
+      { title: "Beeff — Внедрение 1С в Перми | 15 лет опыта" },
       {
         name: "description",
         content:
