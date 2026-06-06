@@ -35,6 +35,7 @@ function Index() {
           <nav className="hidden items-center gap-8 text-sm text-muted-foreground md:flex">
             <a href="#about" className="hover:text-foreground transition-colors">О компании</a>
             <a href="#expertise" className="hover:text-foreground transition-colors">Экспертиза</a>
+            <Link to="/process-mining" className="hover:text-foreground transition-colors">Анализ процессов</Link>
             <a href="#team" className="hover:text-foreground transition-colors">Команда</a>
             <a href="#contacts" className="hover:text-foreground transition-colors">Контакты</a>
           </nav>
