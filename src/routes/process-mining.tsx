@@ -13,6 +13,7 @@ import {
   Shield,
   Layers,
   UserCheck,
+  Code2 as Code2Icon,
 } from "lucide-react";
 import { useState } from "react";
 
