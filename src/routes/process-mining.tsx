@@ -657,6 +657,3 @@ function ContactForm() {
     </form>
   );
 }
-
-// lucide doesn't export Code2Icon; alias locally
-import { Code2 as Code2Icon } from "lucide-react";
